@@ -1,0 +1,37 @@
+.filter {
+  color: hsl(0, 100%, 100%);
+  font-size: 32px;
+}
+
+.filter__status {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.filter__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 26px;
+}
+
+.filter__item {
+  background-color: transparent;
+  margin-right: 20px;
+  min-width: 200px;
+}
+
+.filter__item a {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+  color: inherit;
+}
+  a:visited {
+   color: #ffffff;
+  }
+  a:hover {
+   color: #fb6e32;
+
+}

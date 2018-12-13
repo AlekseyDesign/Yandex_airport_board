@@ -1,0 +1,44 @@
+.flights {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.flights__item {
+  font-size: 32px;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid hsl(201, 65%, 57%);
+}
+
+.flights__time {
+  font-weight: 700;
+  color: hsl(black, 100%, 51%);
+
+  display: inline-block;
+  min-width: 120px;
+}
+
+.flights__city {
+  font-weight: 500;
+}
+
+.flights__id {
+  font-size: 26px;
+
+  display: inline-block;
+  min-width: 120px;
+}
+
+.flights__status {
+  font-size: 26px;
+}
+
+.flights__error {
+  font-size: 32px;
+}
+
+.flights__flight-id {
+  font-weight: 700;
+}
