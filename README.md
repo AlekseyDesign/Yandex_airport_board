@@ -25,7 +25,6 @@
 Запустить приложение:
 
 ```
-cd Yandex_airport_board
 npm install
 npm start
 ```
