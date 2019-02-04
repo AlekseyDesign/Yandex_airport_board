@@ -1,4 +1,4 @@
-# Yandex_airport_board
+# Yandex airport board
 
 # Тестовое задание
 
